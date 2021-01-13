@@ -4,12 +4,13 @@ An application that takes in a name, converts it into a number, and generates a 
 
 ## 🔨 Progress
 
-So far, only the random walk generator itself is complete. It is hard-coded with a specific seed, so the next step will be to get user input and do the conversion before passing that number as the seed for the generator.
+The app currently takes in a string and converts it to a number that is used as a seed for the random walk. Styling is very basic at the moment, and will be my next major focus.
 
 ## 🔮 Future Features
 
-Heres a short list of features I'd like to add to this app after the basic functionality is in place:
+Here's some features I'd like to add:
 
+- Users can zoom in and out on the canvas for different views of their walk
 - Users can control colors of both the canvas and walk points
 - Users can switch between completed walk vs. an animation of the walk
 - Users can combine their own walks with walk(s) of friend(s), with overlap marked w/ separate color(s)
