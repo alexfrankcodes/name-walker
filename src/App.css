@@ -4,3 +4,24 @@
   flex-direction: column;
   align-items: center;
 }
+
+.canvas {
+  display: flex;
+  flex-direction: column;
+}
+
+.canvas div {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.canvas p {
+  display: inline;
+  margin-right: 1rem;
+}
+
+.canvas input {
+  display: inline;
+}

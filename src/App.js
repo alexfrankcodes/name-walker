@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Name Walker</h1>
-      <Canvas className="canvas" walkLength={1000000} />
+      <Canvas className="canvas" />
     </div>
   );
 }
