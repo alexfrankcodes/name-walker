@@ -2,6 +2,10 @@
 
 An application that takes in a name, converts it into a number, and generates a [random walk](https://en.wikipedia.org/wiki/Random_walk) using that number as a seed. The end result is a unique random walk specific to each user's name.
 
+## [Try it here](https://alexfrankcodes.github.io/name-walker/)
+
+---
+
 ## 🔨 Progress
 
 The app currently takes in a string and converts it to a number that is used as a seed for the random walk. Styling is very basic at the moment, and will be my next major focus.
