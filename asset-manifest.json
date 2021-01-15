@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/name-walker/static/css/main.d28c333c.chunk.css",
-    "main.js": "/name-walker/static/js/main.f219736a.chunk.js",
-    "main.js.map": "/name-walker/static/js/main.f219736a.chunk.js.map",
+    "main.css": "/name-walker/static/css/main.954334d9.chunk.css",
+    "main.js": "/name-walker/static/js/main.73cd9cd0.chunk.js",
+    "main.js.map": "/name-walker/static/js/main.73cd9cd0.chunk.js.map",
     "runtime-main.js": "/name-walker/static/js/runtime-main.d11924e1.js",
     "runtime-main.js.map": "/name-walker/static/js/runtime-main.d11924e1.js.map",
     "static/js/2.6cbcc53d.chunk.js": "/name-walker/static/js/2.6cbcc53d.chunk.js",
     "static/js/2.6cbcc53d.chunk.js.map": "/name-walker/static/js/2.6cbcc53d.chunk.js.map",
     "index.html": "/name-walker/index.html",
-    "static/css/main.d28c333c.chunk.css.map": "/name-walker/static/css/main.d28c333c.chunk.css.map",
+    "static/css/main.954334d9.chunk.css.map": "/name-walker/static/css/main.954334d9.chunk.css.map",
     "static/js/2.6cbcc53d.chunk.js.LICENSE.txt": "/name-walker/static/js/2.6cbcc53d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d11924e1.js",
     "static/js/2.6cbcc53d.chunk.js",
-    "static/css/main.d28c333c.chunk.css",
-    "static/js/main.f219736a.chunk.js"
+    "static/css/main.954334d9.chunk.css",
+    "static/js/main.73cd9cd0.chunk.js"
   ]
 }
