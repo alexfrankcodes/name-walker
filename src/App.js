@@ -1,11 +1,11 @@
 import "./App.css";
-import Canvas from "./components/Canvas";
+import RandomWalkerSketch from "./components/RandomWalkerSketch";
 
 function App() {
   return (
     <div className="App">
       <h1>Name Walker</h1>
-      <Canvas className="canvas" />
+      <RandomWalkerSketch />
     </div>
   );
 }

@@ -1,27 +1,94 @@
+:root {
+  --black: #000000ff;
+  --oxford-blue: #14213dff;
+  --orange-web: #fca311ff;
+  --platinum: #e5e5e5ff;
+  --white: #ffffffff;
+}
+
+* {
+  font-family: 'Quicksand', sans-serif;
+  color: var(--denim-blue)
+}
+
 .App {
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
+  height: 100vh;
 }
 
-.canvas {
-  display: flex;
-  flex-direction: column;
+h1 {
+  font-size: 3rem;
 }
 
-.canvas div {
+.sketch div {
   margin-bottom: 1rem;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.canvas p {
-  display: inline;
-  margin-right: 1rem;
+input {
+  padding: 0;
 }
 
-.canvas input {
-  display: inline;
+input:focus {
+  border-bottom-color: var(--oxford-blue) !important;
+  box-shadow: 0 1px 0 0 var(--oxford-blue) !important;
+}
+
+.btn {
+  background-color: var(--oxford-blue);
+  border-radius: 0%;
+}
+
+.btn:hover {
+  background-color: hsl(221, 51%, 20%);
+}
+
+.btn:focus {
+  background-color: hsl(221, 51%, 20%);
+}
+
+.navigation .btn {
+  min-width: 7rem;
+  max-width: 7rem;
+}
+
+.generateButton {
+  margin-left: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .App {
+    padding: 0;
+    margin-top: 2rem;
+  }
+
+  input {
+    max-width: 90vw;
+    margin: 0;
+    padding: 0;
+  }
+
+  canvas {
+    margin: 1rem;
+  }
+
+  .sketch div {
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+  }
+
+  .btn {
+    min-width: 90vw !important;
+    height: 4rem;
+    margin: 0;
+  }
+
+  .reverseButton {
+    margin: 1rem 0;
+  }
 }
