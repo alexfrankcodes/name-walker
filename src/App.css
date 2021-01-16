@@ -22,6 +22,15 @@ h1 {
   font-size: 3rem;
 }
 
+.space {
+  padding: 0.4rem;
+}
+
+.intro {
+  max-width: 60vw;
+  padding-bottom: 1rem;
+}
+
 .sketch div {
   margin-bottom: 1rem;
   display: flex;
