@@ -22,6 +22,10 @@ h1 {
   font-size: 3rem;
 }
 
+a {
+  color: var(--orange-web)
+}
+
 .space {
   padding: 0.4rem;
 }
