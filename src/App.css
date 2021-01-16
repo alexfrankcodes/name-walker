@@ -27,8 +27,8 @@ h1 {
 }
 
 .intro {
-  max-width: 60vw;
-  padding-bottom: 1rem;
+  max-width: 600px;
+  padding: 0 2rem 1rem 2rem;
 }
 
 .sketch div {
