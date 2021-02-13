@@ -18,3 +18,9 @@ Here's some features I'd like to add:
 - Users can control colors of both the canvas and walk points
 - Users can switch between completed walk vs. an animation of the walk
 - Users can combine their own walks with walk(s) of friend(s), with overlap marked w/ separate color(s)
+
+## Meta
+
+Alexander Frank – [@alexfrankcodes](https://twitter.com/alexfrankcodes) – alexfrankcodes@gmail.com
+
+[https://github.com/alexfrankcodes](https://github.com/alexfrankcodes)
